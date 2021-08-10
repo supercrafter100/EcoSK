@@ -1,0 +1,7 @@
+name: EcoSK
+version: ${project.version}
+main: com.supercrafter100.ecosk.EcoSK
+api-version: 1.17
+authors: [Supercrafter100]
+description: An economy plugin for skript that allows you to create custom currencies
+depend: [ Skript ]
